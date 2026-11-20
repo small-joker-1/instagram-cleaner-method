@@ -1,0 +1,22 @@
+{
+  "name": "instagram-cleaner-method",
+  "version": "1.0.0",
+  "description": "Count followers, following, and accounts that do not follow you back from an Instagram data export.",
+  "type": "module",
+  "bin": {
+    "instagram-export": "./bin/instagram-export.mjs"
+  },
+  "scripts": {
+    "test": "node --test",
+    "example": "node bin/instagram-export.mjs examples/sample-export"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "homepage": "https://instagramcleaner.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/small-joker-1/instagram-cleaner-method.git"
+  }
+}
