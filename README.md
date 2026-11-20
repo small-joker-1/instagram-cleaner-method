@@ -1,6 +1,6 @@
 # Instagram Cleaner
 
-Count followers, following, and the accounts that do not follow you back from an [Instagram data export](https://instagramcleaner.com/instagram-data-export-guide). The arithmetic runs on your computer. This repository does not ask for an Instagram password, and it does not upload the ZIP.
+See who doesn't follow you back. Count followers, following, and non-followers from an [Instagram data export](https://instagramcleaner.com/instagram-data-export-guide). The arithmetic runs on your computer. This repository does not ask for an Instagram password, and it does not upload the ZIP.
 
 [![Instagram Cleaner reading an export ZIP in the browser](docs/instagram-cleaner.jpg)](https://instagramcleaner.com)
 
